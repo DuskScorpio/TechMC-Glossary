@@ -36,7 +36,7 @@
 
 > ⚠️ 请确保保存时使用 **UTF-8 编码**，以避免乱码问题。
 
-## 致谢
+## 📚 致谢
 本词汇表的初始版本参考了以下来源整理而成：
 - [GraduateTextsInTechnicalMC](https://github.com/tanhHeng/GraduateTextsInTechnicalMC)
 - [LAS Translation Team](https://www.youtube.com/@redstonevideotranslation5478)
