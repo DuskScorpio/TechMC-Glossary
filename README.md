@@ -15,3 +15,9 @@ The glossary aims to help technical players, developers, and translators underst
 
 Click above to view the README in your preferred language.  
 点击上方语言链接查看你希望的语言版本。
+
+---
+
+📄 View glossary file | 查看术语表：
+- [🔍 TechMC Glossary.csv (preview)](https://github.com/DuskScorpio/TechMC-Glossary/blob/main/TechMC%20Glossary.csv)
+
