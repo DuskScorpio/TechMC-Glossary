@@ -6,7 +6,7 @@ A multilingual glossary of Minecraft technical terms in multiple languages, desi
 🌐 Currently Available Languages：
 
 - English
-- 简体中文
+- Chinese Simplified
 
 View glossary file：
 - [🔍 TechMC Glossary.csv (preview)](https://github.com/DuskScorpio/TechMC-Glossary/blob/main/TechMC%20Glossary.csv)
