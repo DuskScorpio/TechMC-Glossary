@@ -1,4 +1,4 @@
-[EN](README.md) | [ZH](README.zh.md) | RU
+[EN](README.md) | [ZH](README.zh.md) | RU | [ES](README.es.md)
 
 # TechMC Glossary
 
