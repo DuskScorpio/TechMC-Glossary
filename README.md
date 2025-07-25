@@ -30,7 +30,7 @@ View glossary file：
 
 To edit the glossary in Excel:
 
-1. Click [here to download the CSV](https://github.com/DuskScorpio/TechMC-Glossary/raw/main/TechMC%20Glossary.csv)
+1. [Click here to download the CSV file](https://github.com/DuskScorpio/TechMC-Glossary/raw/main/TechMC%20Glossary.csv) (right-click → Save As)  
 2. Open it in Microsoft Excel
 3. After editing, go to **File > Save As**
 4. Choose **CSV UTF-8 (Comma delimited) (*.csv)** as the file format
