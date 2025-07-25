@@ -1,11 +1,12 @@
+EN | [ZH](README.zh.md)
 # TechMC Glossary
 
 A multilingual glossary of Minecraft technical terms in multiple languages, designed to help players and developers maintain consistent terminology.
 
 🌐 Currently Available Languages：
 
-- [English](README.md)
-- [简体中文](README.zh.md)
+- English
+- 简体中文
 
 View glossary file：
 - [🔍 TechMC Glossary.csv (preview)](https://github.com/DuskScorpio/TechMC-Glossary/blob/main/TechMC%20Glossary.csv)
