@@ -12,7 +12,7 @@
 
 ## 📄 文件说明
 
-- `TechMC glossary.csv`  
+- `TechMC Glossary.csv`  
   包含以下字段：
   - 缩写
   - 术语（英文）
