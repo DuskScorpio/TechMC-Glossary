@@ -25,7 +25,7 @@
 - 修改术语：Fork 本仓库并通过 Pull Request 提交修改
 - 修改时请保持格式统一，并说明更改理由
 
-### 致谢
+## 致谢
 本词汇表的初始版本参考了以下来源整理而成：
 - [GraduateTextsInTechnicalMC](https://github.com/tanhHeng/GraduateTextsInTechnicalMC)
 - [LAS Translation Team](https://www.youtube.com/@redstonevideotranslation5478)
