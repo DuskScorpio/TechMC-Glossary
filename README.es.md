@@ -7,7 +7,7 @@ Un glosario con múltiples idiomas de términos de Minecraft técnico, diseñado
 
 - Inglés
 - Chino Simplificado
-- Spanish
+- Español
 
 Archivo con el glosario：
 - [🔍 TechMC Glossary.csv (preview)](https://github.com/DuskScorpio/TechMC-Glossary/blob/main/TechMC%20Glossary.csv)
