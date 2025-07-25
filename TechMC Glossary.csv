@@ -1,249 +1,249 @@
-Short Form,Full Form,Explanation,ÖĞÎÄ
-,(Box) Splitter,,·ÖºĞÆ÷
-,(Cart) Yeeter,,¿ó³µĞ¶»õ»ú(ÉÕ³µ)
-,(Shulker Box) Disk Driver,,ºĞ×ÓÓ²ÅÌ
-,(Shulker) Box Comparer,,ºĞ×Ó±È¶ÔÆ÷
-,(Shulker) Box Detection,,ºĞ×ÓÉ¨ÃèÆ÷
-,(Shulker) Box Display,,Ç±Ó°ºĞÕ¹Ê¾
-,(Shulker) Box Grouper,,ºĞ×Ó·Ö×éÆ÷
-,(Shulker) Box Processor,,Ç±Ó°ºĞ´¦Àí
-,(Shulker) Box Separator,,ºĞ×Ó·ÖÀëÆ÷
-,(Shulker) Box Sorter,,Ç±Ó°ºĞ·ÖÀà
-,Accessible,,¿É·ÃÎÊµÄ
-,Accessible (Box) Loader,,¿É·ÃÎÊ´ò°ü»ú
-,Aligner,,£¨ÊµÌå£©¶ÔÕı×°ÖÃ/½ÃÕı×°ÖÃ/½ÃÕıÆ÷/Ğ£×¼Æ÷
-,Array,,ÕóÁĞ
-,Async observer,1.12.2,Òì²½Õì²âÆ÷Á´
-AABB,Axis Aligned Bounding Box/Bounding Box/Hitbox,,£¨ÊµÌåµÄ£©Åö×²Ïä/±ß½çÏä
-,Based,,»ùÓÚ
-Bin,Binary,,¶ş½øÖÆ
-,Biome,,ÉúÎïÈºÏµ
-,Blast Chamber,,±¬Õ¨ÊÒ
-,Bit,,Î»
-,Obsidian Condom Blast Chamber,,ÄÌ±¬/´¿Å£ÄÌ±¬Õ¨ÊÒ
-,B36 TNT,,ÍÆ±¬
-B36,Block 36/Moving Piston,,36ºÅ·½¿é/ÒÆ¶¯ÖĞµÄ·½¿é
-BE,Block Event,,·½¿éÊÂ¼ş
-BED,Block Event Delay/Depth,,·½¿éÊÂ¼şÉî¶È/·½¿éÊÂ¼şÑÓ³Ù
-,Block stream,,·½¿éÁ÷
-,Block Stream Merger,,·½¿éÕûÁ÷Æ÷
-,Block Tick(aka Tile Tick),,¼Æ»®¿Ì
-BUD,Block Update Detector,,·½¿é¸üĞÂ¼ì²âÆ÷
-,Blocker,,"Ìî³äÎï, Õ¼Î»Îï"
-,Blockerless,,"·ÀÌî³äÎïµÄ, ·ÀÕ¼Î»ÎïµÄ"
-,Blockstate palettes,1.12.2,·½¿é×´Ì¬µ÷É«°å
-,Border Load,,±ß½ç¼ÓÔØ
-,Box Comparer,,ºĞ×Ó±È½ÏÆ÷
-,Box Detection,,ºĞ×ÓÊäÈë¼ì²â
-,Box Display,,ºĞ×ÓÕ¹Ê¾
-,Box Loader,,ºĞ×Ó´ò°ü»ú
-,Box Sorter,,ºĞ×Ó·ÖÀà
-BFS,Breadth First Search,,¹ã¶È/¿í¶ÈÓÅÏÈËÑË÷
-,Bufferless,,ÎŞ»º´æ
-,Bulk (Storage),,´ó×Ú
-,Cart Based Box Unloader,,¿ó³µºĞ×Ó²ğ°ü»ú/¿ó³µºĞ×ÓĞ¶»õ»ú
-,Cellular Automata,,Ôª°û×Ô¶¯»ú
-,Chest Hall,ÌØÖ¸ÓÉµ¥Æ¬¹¹³ÉµÄ,È«ÎïÆ·µ¥Æ¬/²Ö¿â
-,Chunk,,Çø¿é
-,Chunk loader,,Çø¿é¼ÓÔØÆ÷
-,Chunk population ,1.12.2,Çø¿é×°ÊÎ
-,Chunk Swap,1.12.2,Çø¿éÌæ»»
-CT,Chunk Tick,,Çø¿é¿Ì
-,Chunk Ticket,,¼ÓÔØÆ±
-,Cluster,1.12.2,Çø¿é¼¯Èº
-,Cobblestone farm,Ë¢Ê²Ã´Ê¯Í·ÒªĞ´³öÀ´ e.g. Basalt farm,Ë¢Ê¯»ú
-CUD,Comparator Update Detector(aka Tile Entity Update Detector),,±È½ÏÆ÷¸üĞÂ¼ì²âÆ÷
-,Congruential Generator,,Í¬ÓàÉú³ÉÆ÷
-,Conversion,,»»Ëã
-,Corner retraction,,½ÇÂä²àÎü
-,Crafter,,ºÏ³ÉÕ¾
-,Crosstalk,,´®Ïß
-cyc,Cyclical,,Ñ­»·µÄ
-DUD,Data Update Detector(aka Comparator Update Detector),,·½¿éÊµÌå¸üĞÂ¼ì²âÆ÷
-,Decimal,,Ê®½øÖÆ
-,Decoder,,½âÂëÆ÷
-DFS,Depth-First Search,,Éî¶ÈÓÅÏÈËÑË÷
-,Deserializer,,´®ĞĞĞÅºÅ½ÓÊÕÆ÷
-,Directional,,·½ÏòĞÔ
-DPE,Double Piston Extender,,¶ş´Îµİ¹é
-,Dropperline,,Í¶ÖÀÆ÷Á´
-,drops,,µôÂäÎï
-DPH,Drops Per Hour,,µôÂäÎïÃ¿Ğ¡Ê±
-,Dust Updateless,,ÎŞºìÊ¯·ÛÄÜÁ¿±ä»¯;ÎŞ·Û(¹ãÒå)
-,Dustless,,ÎŞ·Û(ÏÁÒå)
-,Dynamic,,¶¯Ì¬µÄ
-DP,Dynamic Programming,,¶¯Ì¬¹æ»®
-,Efficiency,,ÀûÓÃÂÊ
-,Encoded,,±àÂëµÄ
-,Encoder,,±àÂëÆ÷
-,Entity loaded,,Ç¿¼ÓÔØ
-,Entity Processing,×÷ĞÎÈİ´Ê,Ç¿¼ÓÔØµÄ
-EU,Entity Update,,ÊµÌåÔËËã/ÊµÌå¸üĞÂ
-,Falling swap,1.12.2,ÂäÉ³Ìæ»»
-,Farm,ÌØÖ¸Éú²ú×ÊÔ´µÄ»úÆ÷,Å©³¡
-,Fifo(aka Shift Register),,ÒÆÎ»¼Ä´æÆ÷
-,Fill (level) Sorter,,Ìî³ä¶È·ÖÀàÆ÷
-,Filtered,,·ÖÀàµÄ
-,Filtered Loader,,·ÖÀà´ò°ü»ú
-,First box placement,,×ÔÅçºĞ
-,Fixed Sorter,,¹Ì¶¨·ÖÀà
-,Flying machine/aircraft,,·ÉĞĞÆ÷
-,Force Load,ÓëÇ¿¼ÓÔØÇø·Ö,Ç¿ÖÆ¼ÓÔØ
-fBM,Fractual Brownian Motion,,·ÖĞÎ²¼ÀÊÔË¶¯
-,Fractual Density Noise Map,,·ÖĞÎÃÜ¶ÈÔëÉùÍ¼
-FHL,Fully Hopper-Locked,,Â©¶·È«Ëø
-,Furnace Array,,ÈÛÂ¯×é
-gt,Game Tick,,ÓÎÏ·¿Ì (2gt = 1rt)
-,Global,,È«¾ÖµÄ
-Hex,Hexadecimal,,Ê®Áù½øÖÆ
-HSS,High Signal Strength (aka Overstacked Signal Strength),,Ç¿Ä£
-HS,Hopper Speed,1/2x; 1x; 2x,Â©¶·ËÙ
-,Hopperline,,Â©¶·Á´
-,Hopper-Locked,,ËøÂ©¶·
-,Hostile mob switch,,µĞ¶ÔÉúÎïÎ±ºÍÆ½/Î±ºÍÆ½
-,Hostile mobs,,µĞ¶ÔÉúÎï
-,Hunger level,,¼¢¶öÖµ
-,Hybrid,,¸´ºÏµÄ(»º´æ´ò°ü)
-,Instant,ÕâÓ¦¸Ã²»Ëã×¨ÓĞÃû´Ê£¬µ«ÎÒ¾õµÃÓ¦¸Ã¶Ô·ÛµÄË²Ê±ºÍË²Ê±±È½ÏÆ÷µÄË²Ê±×öÇø·Ö,¼´Ê±(Ë²Ê±)
-,Instant falling,1.12.2,Ë²Ê±ÏÂÂä
-ITT,Instant tile Tick(itt)/instantScheduling,1.12.2,Ë²Ê±¼Æ»®¿Ì
-,Invisible chunks(I),1.12.2,ÒşĞÎÇø¿é
-,Item Call,,ÎïÆ·ºô½Ğ
-,Item Input,,ÎïÆ·ÊäÈë
-,Item Overflow,,ÎïÆ·Òç³ö
-,Item Sorter,,ÎïÆ··ÖÀà
-,Item Wanker(aka Keygen),,ÎïºĞ·ÖÀë/Ç±Ó°ºĞÈ¡ÑùÆ÷
-,Keygen(aka Item Wanker),,ÎïºĞ·ÖÀë/Ç±Ó°ºĞÈ¡ÑùÆ÷
-,Killing chamber,,»÷É±ÊÒ
-,Layout,,¼Ü¹¹
-,Lazy Load,,Èõ¼ÓÔØ
-LUD,Liquid Update Detector,,Á÷Ìå¸üĞÂ¼ì²âÆ÷
-,Loader,,´ò°ü»ú
-,Local,,"¾Ö²¿µÄ, ·ÇÈ«¾ÖµÄ"
-,Locational,,Î»ÖÃĞÔ
-,Logical Gate,,Âß¼­ÃÅ
-MS,Main Storage,,È«ÎïÆ·/È«ÎïÆ··ÖÀà²Ö¿â
-,Merger,,Ç±Ó°ºĞºÏ²¢Æ÷
-,MicroTiming,,Î¢Ê±Ğò
-MSPT,Milliseconds Per Tick,Ö´ĞĞÒ»¿ÌµÄºÁÃëÊı,ÎŞ
-,Mixed,,»ìÔÓµÄ
-,Mixed Box,,»ìÔÓºĞ
-,Mixed Box Loader,,»ìÔÓ´ò°ü»ú
-MCP,Mod Coder Pack,,ÎŞ
-,Motion/Momentum,Ó¦Ã÷È·ĞĞÎÄÖĞ¸ü¶à²ÉÓÃMotion»¹ÊÇ¶¯Á¿ÕâÒ»Ãû´Ê£¬²¢½¨Òé½«ÆäÓëÖ±½ÓÃèÊöÎ»ÖÃ±ä»¯µÄ¡°ËÙ¶È¡±ÏàÇø·Ö,¶¯Á¿
-,Move along axis,¿ÉÒÔÖ¸»ùÓÚEntity.move()µÄÊµÌåÒÆ¶¯ÖĞÑØÖá½øĞĞÅö×²¼ì²éÕâÒ»ÏÖÏó,ÑØÖáÔË¶¯/ÑØÖáÒÆ¶¯
-MBS,Multi Box Sorter,,¶àÖÖÀàÇ±Ó°ºĞ·ÖÀà
-MIS,Multi Item Sorter,,¶àÎïÆ··ÖÀà
-,n X,,n±¶ËÙ
-NC,Neighbor Change,,·½¿é¸üĞÂ
-,Nether,,ÏÂ½ç/µØÓü
-NU/AT,Network Update/Async Task,,ÍøÂçÁ÷¸üĞÂ/Òì²½Ïß³Ì/Íæ¼Ò²Ù×÷¸üĞÂ
-,Neutral mobs,,ÖĞÁ¢ÉúÎï
-NTE,Next Tick Entry(aka Tile Tick),,¼Æ»®¿Ì
-,Noise Map,,ÔëÉùÍ¼
-,Octave,,°Ë¶È
-,Operation Stack,,²Ù×÷Õ»
-OSS,Overstacked Signal Strength (aka High Signal Strength),,Ç¿Ä£
-,Pack Spawning,,Ë¢¹ÖÓÎ×ß
-,Pair Optimizer,,Ç±Ó°ºĞ×îÓÅÅä¶ÔÆ÷
-,Pair Searcher,,Ç±Ó°ºĞÅä¶ÔÆ÷
-,panel,,Ãæ°å
-,Paraller Codes,,²¢ĞĞÂë/²¢ĞĞĞÅºÅ
-,Passive mob switch,,ÓÑºÃÉúÎïÎ±ºÍÆ½
-,Passive mobs,,ÓÑºÃÉúÎï
-,Pearl cannon,,ÕäÖéÅÚ
-PEIS,PEIS,,²¢ĞĞĞ¶»õÕóÁĞ(ÕûÁ÷Æ÷)
-,Perimeter,,¿ÕÖÃÓò
-,Peripheral,,ÆäËûµÄ
-,Perlin Noise,,°ØÁÖÔëÉù
-,Pistonless,,ÎŞ»îÈûµÄ
-POI,Point Of Interest,ÓëÖĞÎÄÒëÃûÏà±È£¬POIÕâÒ»¼ò³ÆÔÚÊµ¼ÊÌÖÂÛÖĞËÆºõ¸ü³£³öÏÖ,ĞËÈ¤µã
-,Position,,×ø±ê
-PP,Post Placement,,ĞÎ×´¸üĞÂ/×´Ì¬¸üĞÂ
-,Power Line Bug,ÃèÊö2µÄÃİ´Î×ø±ê¸½½üÊµÌåµÄÔË¶¯Òò¸¡µãÎó²î¶øÃ÷ÏÔÒì³£µÄÏÖÏó£¬½öÔÚÒ»¸ö³ö´¦¼ûµ½¹ı,ÎŞ
-,Precision,,¾«ÃÜµÄ
-,Precision Hopper,,¾«ÃÜÂ©¶·
-,Precision Loader,,¾«ÃÜ´ò°ü»ú
-,Propellant,¶àÓÃÓÚÅÚ,ÍÆ½ø¼Á
-,Pure Box,,´¿¾»ºĞ
-PLD,Push Limit Detector,,ÍÆ¶¯ÉÏÏŞ¼ì²â
-,Quad Bulk,,ËÄ±ßĞÎ´ó×Ú
-,Quarry,,ÍÚ¿ó»ú/²ÉÊ¯³¡
-QC,Quasi Connectivity,,°ëÁ¬½ÓĞÔ
-,Queue,,¶ÓÁĞ
-RAM,RAM,,¶ÁĞ´´æ´¢Æ÷
-,Random Tick & Climate (RTC),,Ëæ»ú¿ÌºÍÆøºò
-,Redcoder,,ºìÊ¯ĞÅºÅ½âÂëÆ÷
-rt,Redstone Tick,,ºìÊ¯¿Ì
-,Remote Bulk,,Ô¶³Ì·ÃÎÊ´ó×Ú
-,Render distance,,ÊÓ¾à
-,retract through dirt,,ÏÂÎü
-,Return rate,,»ØÊÕÂÊ
-ROM,ROM,,Ö»¶Á´æ´¢Æ÷
-,Safe,,°²È«µÄ
-,Saturation level,,±¥ºÍ¶È
-,Schedule Tick (aka Tile Tick),,¼Æ»®¿Ì
-,Schematic,Í¶Ó°Ä£×é,Ô­ÀíÍ¼
-,Seed,,ÖÖ×Ó
-,Sequential,,Ë³ĞòµÄ
-,Serial Codes,,´®ĞĞÂë/²¢ĞĞĞÅºÅ
-,Serializer,,´®ĞĞĞÅºÅ·¢ÉúÆ÷
-,Set,,ÕûÁ÷
-,Set Based,,Ê×Î»¼ì²â
-,Shape Update(aka Post Placement),,ĞÎ×´¸üĞÂ/×´Ì¬¸üĞÂ
-,Shift Register(aka Fifo),,ÒÆÎ»¼Ä´æÆ÷
-,Side retraction,,²àÎü
-SS,Signal Strength,,ĞÅºÅÇ¿¶È
-SSI,Signal Strength Isolated,,ĞÅºÅ¸ôÀë
-,Silent,,¾²Òô
-,Simulation distance,,Ä£Äâ¾àÀë
-,Size/Dimension,,Ìå»ı
-,Slice,,µ¥Æ¬
-,Slice Preservation(aka Local Output),,µ¥Æ¬Êä³ö
-,Slimestone,,ÂÌÃÈ
-,Smart,,ÖÇÄÜµÄ
-,Smart (Shulker) Box Display,,¿É·´»ÚÇ±Ó°ºĞÕ¹Ê¾
-,Smart (Shulker) Box Sorter,,µ¥Æ¬½âËøÇ±Ó°ºĞ·ÖÀà
-,Snow,,Ï¸Ñ©
-,Sorter,,·ÖÀàÆ÷
-,Spawning chamber,,Éú³ÉÊÒ
-,Spawning Potential,,Ë¢¹ÖÊÆÄÜ/Éú³ÉÊÆ
-,Splitter,,·ÖÁ÷
-SS_Sorter,Signal Strength Sorter,,Ç±Ó°ºĞÌî³ä¶È·ÖÀà
-,Stack,,Õ»
-,Stack Separator,,¶Ñ·ÖÀë
-,Stack Sorter,,¶Ñ·ÖÀà
-SIS,Storage Input System,,ÎŞÊµÌåÊäÈëÏµÍ³
-,Sub Chunk/Chunk Section/Section,,×ÓÇø¿é
-Svar,Svar,,×ÔÊÊÓ¦Ç±Ó°ºĞ·ÖÀà
-,sync,,Í¬²½
-,Synchronized method,1.12.2,Í¬²½Ëø·½·¨
-,Temp Storage,,ÁÙÊ±´æ´¢(»º´æ)
-,Terrain Height,,µØĞÎ¸ß¶È
-TPS,Ticks Per Second,Ò»ÃëÄÜÖ´ĞĞµÄ¿ÌÊı,ÎŞ
-TEUD,Tile Entity Update Detector(aka Comparator Update Detector),,·½¿éÊµÌå¸üĞÂ¼ì²âÆ÷
-TE,Tile Entity(aka Block Entity),,·½¿éÊµÌå
-TE,Tile Entity/Block Entity,,·½¿éÊµÌå
-TT,Tile Tick (aka Block Tick),,¼Æ»®¿Ì
-TTP,Tile Tick Priority,,¼Æ»®¿ÌÓÅÏÈ¼¶
-,Tileable,,¿É¶Ñµş/Æ´½ÓµÄ
-,Transcoder,,×ªÂëÆ÷
-,Unloader,,²ğ°ü»ú/Ğ¶»õ»ú
-,Unstackable Filter(aka (Unstackable Sparator),,²»¿É¶Ñµş·ÖÀë
-,Unstackable Sorter,,²»¿É¶Ñµş·ÖÀà
-,Update Order,,¸üĞÂË³Ğò
-,Update Suppression,,¸üĞÂÒÖÖÆ
-UI,User Interface,,ÓÃ»§Ãæ°å
-var,Variable,,×ÔÊÊÓ¦µÄ
-,Variable Loader,,×ÔÊÊÓ¦´ò°ü»ú
-,Variable Sorter,,×ÔÊÊÓ¦·ÖÀà
-,Variable Stack Flitter,,×ÔÊÊÓ¦¶Ñ·Ö
-,Village (V),,´å×¯ÔËËã
-,Wanker(aka Item Wanker),,ÎïºĞ·ÖÀë/Ç±Ó°ºĞÈ¡ÑùÆ÷
-,Water stream,,Ë®µÀ
-,Word tear,1.12.2,×ÖËºÁÑ
-,Workstation,,£¨´åÃñ£©¹¤×÷Õ¾
-,World eater,,ÊÀ½çÍÌÊÉÕß
-WTU,World Time Update,,ÊÀ½çÊ±¼ä¸üĞÂ
-,X Wide AB Tileable,,X¿íab¶Ñµş
-,X Wide Tileable,,X¿í¶Ñµş
+ï»¿Short Form,Full Form,Explanation,ä¸­æ–‡
+,(Box) Splitter,,åˆ†ç›’å™¨
+,(Cart) Yeeter,,çŸ¿è½¦å¸è´§æœº(çƒ§è½¦)
+,(Shulker Box) Disk Driver,,ç›’å­ç¡¬ç›˜
+,(Shulker) Box Comparer,,ç›’å­æ¯”å¯¹å™¨
+,(Shulker) Box Detection,,ç›’å­æ‰«æå™¨
+,(Shulker) Box Display,,æ½œå½±ç›’å±•ç¤º
+,(Shulker) Box Grouper,,ç›’å­åˆ†ç»„å™¨
+,(Shulker) Box Processor,,æ½œå½±ç›’å¤„ç†
+,(Shulker) Box Separator,,ç›’å­åˆ†ç¦»å™¨
+,(Shulker) Box Sorter,,æ½œå½±ç›’åˆ†ç±»
+,Accessible,,å¯è®¿é—®çš„
+,Accessible (Box) Loader,,å¯è®¿é—®æ‰“åŒ…æœº
+,Aligner,,ï¼ˆå®ä½“ï¼‰å¯¹æ­£è£…ç½®/çŸ«æ­£è£…ç½®/çŸ«æ­£å™¨/æ ¡å‡†å™¨
+,Array,,é˜µåˆ—
+,Async observer,1.12.2,å¼‚æ­¥ä¾¦æµ‹å™¨é“¾
+AABB,Axis Aligned Bounding Box/Bounding Box/Hitbox,,ï¼ˆå®ä½“çš„ï¼‰ç¢°æ’ç®±/è¾¹ç•Œç®±
+,Based,,åŸºäº
+Bin,Binary,,äºŒè¿›åˆ¶
+,Biome,,ç”Ÿç‰©ç¾¤ç³»
+,Blast Chamber,,çˆ†ç‚¸å®¤
+,Bit,,ä½
+,Obsidian Condom Blast Chamber,,å¥¶çˆ†/çº¯ç‰›å¥¶çˆ†ç‚¸å®¤
+,B36 TNT,,æ¨çˆ†
+B36,Block 36/Moving Piston,,36å·æ–¹å—/ç§»åŠ¨ä¸­çš„æ–¹å—
+BE,Block Event,,æ–¹å—äº‹ä»¶
+BED,Block Event Delay/Depth,,æ–¹å—äº‹ä»¶æ·±åº¦/æ–¹å—äº‹ä»¶å»¶è¿Ÿ
+,Block stream,,æ–¹å—æµ
+,Block Stream Merger,,æ–¹å—æ•´æµå™¨
+,Block Tick(aka Tile Tick),,è®¡åˆ’åˆ»
+BUD,Block Update Detector,,æ–¹å—æ›´æ–°æ£€æµ‹å™¨
+,Blocker,,"å¡«å……ç‰©, å ä½ç‰©"
+,Blockerless,,"é˜²å¡«å……ç‰©çš„, é˜²å ä½ç‰©çš„"
+,Blockstate palettes,1.12.2,æ–¹å—çŠ¶æ€è°ƒè‰²æ¿
+,Border Load,,è¾¹ç•ŒåŠ è½½
+,Box Comparer,,ç›’å­æ¯”è¾ƒå™¨
+,Box Detection,,ç›’å­è¾“å…¥æ£€æµ‹
+,Box Display,,ç›’å­å±•ç¤º
+,Box Loader,,ç›’å­æ‰“åŒ…æœº
+,Box Sorter,,ç›’å­åˆ†ç±»
+BFS,Breadth First Search,,å¹¿åº¦/å®½åº¦ä¼˜å…ˆæœç´¢
+,Bufferless,,æ— ç¼“å­˜
+,Bulk (Storage),,å¤§å®—
+,Cart Based Box Unloader,,çŸ¿è½¦ç›’å­æ‹†åŒ…æœº/çŸ¿è½¦ç›’å­å¸è´§æœº
+,Cellular Automata,,å…ƒèƒè‡ªåŠ¨æœº
+,Chest Hall,ç‰¹æŒ‡ç”±å•ç‰‡æ„æˆçš„,å…¨ç‰©å“å•ç‰‡/ä»“åº“
+,Chunk,,åŒºå—
+,Chunk loader,,åŒºå—åŠ è½½å™¨
+,Chunk population ,1.12.2,åŒºå—è£…é¥°
+,Chunk Swap,1.12.2,åŒºå—æ›¿æ¢
+CT,Chunk Tick,,åŒºå—åˆ»
+,Chunk Ticket,,åŠ è½½ç¥¨
+,Cluster,1.12.2,åŒºå—é›†ç¾¤
+,Cobblestone farm,åˆ·ä»€ä¹ˆçŸ³å¤´è¦å†™å‡ºæ¥ e.g. Basalt farm,åˆ·çŸ³æœº
+CUD,Comparator Update Detector(aka Tile Entity Update Detector),,æ¯”è¾ƒå™¨æ›´æ–°æ£€æµ‹å™¨
+,Congruential Generator,,åŒä½™ç”Ÿæˆå™¨
+,Conversion,,æ¢ç®—
+,Corner retraction,,è§’è½ä¾§å¸
+,Crafter,,åˆæˆç«™
+,Crosstalk,,ä¸²çº¿
+cyc,Cyclical,,å¾ªç¯çš„
+DUD,Data Update Detector(aka Comparator Update Detector),,æ–¹å—å®ä½“æ›´æ–°æ£€æµ‹å™¨
+,Decimal,,åè¿›åˆ¶
+,Decoder,,è§£ç å™¨
+DFS,Depth-First Search,,æ·±åº¦ä¼˜å…ˆæœç´¢
+,Deserializer,,ä¸²è¡Œä¿¡å·æ¥æ”¶å™¨
+,Directional,,æ–¹å‘æ€§
+DPE,Double Piston Extender,,äºŒæ¬¡é€’å½’
+,Dropperline,,æŠ•æ·å™¨é“¾
+,drops,,æ‰è½ç‰©
+DPH,Drops Per Hour,,æ‰è½ç‰©æ¯å°æ—¶
+,Dust Updateless,,æ— çº¢çŸ³ç²‰èƒ½é‡å˜åŒ–;æ— ç²‰(å¹¿ä¹‰)
+,Dustless,,æ— ç²‰(ç‹­ä¹‰)
+,Dynamic,,åŠ¨æ€çš„
+DP,Dynamic Programming,,åŠ¨æ€è§„åˆ’
+,Efficiency,,åˆ©ç”¨ç‡
+,Encoded,,ç¼–ç çš„
+,Encoder,,ç¼–ç å™¨
+,Entity loaded,,å¼ºåŠ è½½
+,Entity Processing,ä½œå½¢å®¹è¯,å¼ºåŠ è½½çš„
+EU,Entity Update,,å®ä½“è¿ç®—/å®ä½“æ›´æ–°
+,Falling swap,1.12.2,è½æ²™æ›¿æ¢
+,Farm,ç‰¹æŒ‡ç”Ÿäº§èµ„æºçš„æœºå™¨,å†œåœº
+,Fifo(aka Shift Register),,ç§»ä½å¯„å­˜å™¨
+,Fill (level) Sorter,,å¡«å……åº¦åˆ†ç±»å™¨
+,Filtered,,åˆ†ç±»çš„
+,Filtered Loader,,åˆ†ç±»æ‰“åŒ…æœº
+,First box placement,,è‡ªå–·ç›’
+,Fixed Sorter,,å›ºå®šåˆ†ç±»
+,Flying machine/aircraft,,é£è¡Œå™¨
+,Force Load,ä¸å¼ºåŠ è½½åŒºåˆ†,å¼ºåˆ¶åŠ è½½
+fBM,Fractual Brownian Motion,,åˆ†å½¢å¸ƒæœ—è¿åŠ¨
+,Fractual Density Noise Map,,åˆ†å½¢å¯†åº¦å™ªå£°å›¾
+FHL,Fully Hopper-Locked,,æ¼æ–—å…¨é”
+,Furnace Array,,ç†”ç‚‰ç»„
+gt,Game Tick,,æ¸¸æˆåˆ» (2gt = 1rt)
+,Global,,å…¨å±€çš„
+Hex,Hexadecimal,,åå…­è¿›åˆ¶
+HSS,High Signal Strength (aka Overstacked Signal Strength),,å¼ºæ¨¡
+HS,Hopper Speed,1/2x; 1x; 2x,æ¼æ–—é€Ÿ
+,Hopperline,,æ¼æ–—é“¾
+,Hopper-Locked,,é”æ¼æ–—
+,Hostile mob switch,,æ•Œå¯¹ç”Ÿç‰©ä¼ªå’Œå¹³/ä¼ªå’Œå¹³
+,Hostile mobs,,æ•Œå¯¹ç”Ÿç‰©
+,Hunger level,,é¥¥é¥¿å€¼
+,Hybrid,,å¤åˆçš„(ç¼“å­˜æ‰“åŒ…)
+,Instant,è¿™åº”è¯¥ä¸ç®—ä¸“æœ‰åè¯ï¼Œä½†æˆ‘è§‰å¾—åº”è¯¥å¯¹ç²‰çš„ç¬æ—¶å’Œç¬æ—¶æ¯”è¾ƒå™¨çš„ç¬æ—¶åšåŒºåˆ†,å³æ—¶(ç¬æ—¶)
+,Instant falling,1.12.2,ç¬æ—¶ä¸‹è½
+ITT,Instant tile Tick(itt)/instantScheduling,1.12.2,ç¬æ—¶è®¡åˆ’åˆ»
+,Invisible chunks(I),1.12.2,éšå½¢åŒºå—
+,Item Call,,ç‰©å“å‘¼å«
+,Item Input,,ç‰©å“è¾“å…¥
+,Item Overflow,,ç‰©å“æº¢å‡º
+,Item Sorter,,ç‰©å“åˆ†ç±»
+,Item Wanker(aka Keygen),,ç‰©ç›’åˆ†ç¦»/æ½œå½±ç›’å–æ ·å™¨
+,Keygen(aka Item Wanker),,ç‰©ç›’åˆ†ç¦»/æ½œå½±ç›’å–æ ·å™¨
+,Killing chamber,,å‡»æ€å®¤
+,Layout,,æ¶æ„
+,Lazy Load,,å¼±åŠ è½½
+LUD,Liquid Update Detector,,æµä½“æ›´æ–°æ£€æµ‹å™¨
+,Loader,,æ‰“åŒ…æœº
+,Local,,"å±€éƒ¨çš„, éå…¨å±€çš„"
+,Locational,,ä½ç½®æ€§
+,Logical Gate,,é€»è¾‘é—¨
+MS,Main Storage,,å…¨ç‰©å“/å…¨ç‰©å“åˆ†ç±»ä»“åº“
+,Merger,,æ½œå½±ç›’åˆå¹¶å™¨
+,MicroTiming,,å¾®æ—¶åº
+MSPT,Milliseconds Per Tick,æ‰§è¡Œä¸€åˆ»çš„æ¯«ç§’æ•°,æ— 
+,Mixed,,æ··æ‚çš„
+,Mixed Box,,æ··æ‚ç›’
+,Mixed Box Loader,,æ··æ‚æ‰“åŒ…æœº
+MCP,Mod Coder Pack,,æ— 
+,Motion/Momentum,åº”æ˜ç¡®è¡Œæ–‡ä¸­æ›´å¤šé‡‡ç”¨Motionè¿˜æ˜¯åŠ¨é‡è¿™ä¸€åè¯ï¼Œå¹¶å»ºè®®å°†å…¶ä¸ç›´æ¥æè¿°ä½ç½®å˜åŒ–çš„â€œé€Ÿåº¦â€ç›¸åŒºåˆ†,åŠ¨é‡
+,Move along axis,å¯ä»¥æŒ‡åŸºäºEntity.move()çš„å®ä½“ç§»åŠ¨ä¸­æ²¿è½´è¿›è¡Œç¢°æ’æ£€æŸ¥è¿™ä¸€ç°è±¡,æ²¿è½´è¿åŠ¨/æ²¿è½´ç§»åŠ¨
+MBS,Multi Box Sorter,,å¤šç§ç±»æ½œå½±ç›’åˆ†ç±»
+MIS,Multi Item Sorter,,å¤šç‰©å“åˆ†ç±»
+,n X,,nå€é€Ÿ
+NC,Neighbor Change,,æ–¹å—æ›´æ–°
+,Nether,,ä¸‹ç•Œ/åœ°ç‹±
+NU/AT,Network Update/Async Task,,ç½‘ç»œæµæ›´æ–°/å¼‚æ­¥çº¿ç¨‹/ç©å®¶æ“ä½œæ›´æ–°
+,Neutral mobs,,ä¸­ç«‹ç”Ÿç‰©
+NTE,Next Tick Entry(aka Tile Tick),,è®¡åˆ’åˆ»
+,Noise Map,,å™ªå£°å›¾
+,Octave,,å…«åº¦
+,Operation Stack,,æ“ä½œæ ˆ
+OSS,Overstacked Signal Strength (aka High Signal Strength),,å¼ºæ¨¡
+,Pack Spawning,,åˆ·æ€ªæ¸¸èµ°
+,Pair Optimizer,,æ½œå½±ç›’æœ€ä¼˜é…å¯¹å™¨
+,Pair Searcher,,æ½œå½±ç›’é…å¯¹å™¨
+,panel,,é¢æ¿
+,Paraller Codes,,å¹¶è¡Œç /å¹¶è¡Œä¿¡å·
+,Passive mob switch,,å‹å¥½ç”Ÿç‰©ä¼ªå’Œå¹³
+,Passive mobs,,å‹å¥½ç”Ÿç‰©
+,Pearl cannon,,çç ç‚®
+PEIS,PEIS,,å¹¶è¡Œå¸è´§é˜µåˆ—(æ•´æµå™¨)
+,Perimeter,,ç©ºç½®åŸŸ
+,Peripheral,,å…¶ä»–çš„
+,Perlin Noise,,æŸæ—å™ªå£°
+,Pistonless,,æ— æ´»å¡çš„
+POI,Point Of Interest,ä¸ä¸­æ–‡è¯‘åç›¸æ¯”ï¼ŒPOIè¿™ä¸€ç®€ç§°åœ¨å®é™…è®¨è®ºä¸­ä¼¼ä¹æ›´å¸¸å‡ºç°,å…´è¶£ç‚¹
+,Position,,åæ ‡
+PP,Post Placement,,å½¢çŠ¶æ›´æ–°/çŠ¶æ€æ›´æ–°
+,Power Line Bug,æè¿°2çš„å¹‚æ¬¡åæ ‡é™„è¿‘å®ä½“çš„è¿åŠ¨å› æµ®ç‚¹è¯¯å·®è€Œæ˜æ˜¾å¼‚å¸¸çš„ç°è±¡ï¼Œä»…åœ¨ä¸€ä¸ªå‡ºå¤„è§åˆ°è¿‡,æ— 
+,Precision,,ç²¾å¯†çš„
+,Precision Hopper,,ç²¾å¯†æ¼æ–—
+,Precision Loader,,ç²¾å¯†æ‰“åŒ…æœº
+,Propellant,å¤šç”¨äºç‚®,æ¨è¿›å‰‚
+,Pure Box,,çº¯å‡€ç›’
+PLD,Push Limit Detector,,æ¨åŠ¨ä¸Šé™æ£€æµ‹
+,Quad Bulk,,å››è¾¹å½¢å¤§å®—
+,Quarry,,æŒ–çŸ¿æœº/é‡‡çŸ³åœº
+QC,Quasi Connectivity,,åŠè¿æ¥æ€§
+,Queue,,é˜Ÿåˆ—
+RAM,RAM,,è¯»å†™å­˜å‚¨å™¨
+,Random Tick & Climate (RTC),,éšæœºåˆ»å’Œæ°”å€™
+,Redcoder,,çº¢çŸ³ä¿¡å·è§£ç å™¨
+rt,Redstone Tick,,çº¢çŸ³åˆ»
+,Remote Bulk,,è¿œç¨‹è®¿é—®å¤§å®—
+,Render distance,,è§†è·
+,retract through dirt,,ä¸‹å¸
+,Return rate,,å›æ”¶ç‡
+ROM,ROM,,åªè¯»å­˜å‚¨å™¨
+,Safe,,å®‰å…¨çš„
+,Saturation level,,é¥±å’Œåº¦
+,Schedule Tick (aka Tile Tick),,è®¡åˆ’åˆ»
+,Schematic,æŠ•å½±æ¨¡ç»„,åŸç†å›¾
+,Seed,,ç§å­
+,Sequential,,é¡ºåºçš„
+,Serial Codes,,ä¸²è¡Œç /å¹¶è¡Œä¿¡å·
+,Serializer,,ä¸²è¡Œä¿¡å·å‘ç”Ÿå™¨
+,Set,,æ•´æµ
+,Set Based,,é¦–ä½æ£€æµ‹
+,Shape Update(aka Post Placement),,å½¢çŠ¶æ›´æ–°/çŠ¶æ€æ›´æ–°
+,Shift Register(aka Fifo),,ç§»ä½å¯„å­˜å™¨
+,Side retraction,,ä¾§å¸
+SS,Signal Strength,,ä¿¡å·å¼ºåº¦
+SSI,Signal Strength Isolated,,ä¿¡å·éš”ç¦»
+,Silent,,é™éŸ³
+,Simulation distance,,æ¨¡æ‹Ÿè·ç¦»
+,Size/Dimension,,ä½“ç§¯
+,Slice,,å•ç‰‡
+,Slice Preservation(aka Local Output),,å•ç‰‡è¾“å‡º
+,Slimestone,,ç»¿èŒ
+,Smart,,æ™ºèƒ½çš„
+,Smart (Shulker) Box Display,,å¯åæ‚”æ½œå½±ç›’å±•ç¤º
+,Smart (Shulker) Box Sorter,,å•ç‰‡è§£é”æ½œå½±ç›’åˆ†ç±»
+,Snow,,ç»†é›ª
+,Sorter,,åˆ†ç±»å™¨
+,Spawning chamber,,ç”Ÿæˆå®¤
+,Spawning Potential,,åˆ·æ€ªåŠ¿èƒ½/ç”ŸæˆåŠ¿
+,Splitter,,åˆ†æµ
+SS_Sorter,Signal Strength Sorter,,æ½œå½±ç›’å¡«å……åº¦åˆ†ç±»
+,Stack,,æ ˆ
+,Stack Separator,,å †åˆ†ç¦»
+,Stack Sorter,,å †åˆ†ç±»
+SIS,Storage Input System,,æ— å®ä½“è¾“å…¥ç³»ç»Ÿ
+,Sub Chunk/Chunk Section/Section,,å­åŒºå—
+Svar,Svar,,è‡ªé€‚åº”æ½œå½±ç›’åˆ†ç±»
+,sync,,åŒæ­¥
+,Synchronized method,1.12.2,åŒæ­¥é”æ–¹æ³•
+,Temp Storage,,ä¸´æ—¶å­˜å‚¨(ç¼“å­˜)
+,Terrain Height,,åœ°å½¢é«˜åº¦
+TPS,Ticks Per Second,ä¸€ç§’èƒ½æ‰§è¡Œçš„åˆ»æ•°,æ— 
+TEUD,Tile Entity Update Detector(aka Comparator Update Detector),,æ–¹å—å®ä½“æ›´æ–°æ£€æµ‹å™¨
+TE,Tile Entity(aka Block Entity),,æ–¹å—å®ä½“
+TE,Tile Entity/Block Entity,,æ–¹å—å®ä½“
+TT,Tile Tick (aka Block Tick),,è®¡åˆ’åˆ»
+TTP,Tile Tick Priority,,è®¡åˆ’åˆ»ä¼˜å…ˆçº§
+,Tileable,,å¯å †å /æ‹¼æ¥çš„
+,Transcoder,,è½¬ç å™¨
+,Unloader,,æ‹†åŒ…æœº/å¸è´§æœº
+,Unstackable Filter(aka (Unstackable Sparator),,ä¸å¯å †å åˆ†ç¦»
+,Unstackable Sorter,,ä¸å¯å †å åˆ†ç±»
+,Update Order,,æ›´æ–°é¡ºåº
+,Update Suppression,,æ›´æ–°æŠ‘åˆ¶
+UI,User Interface,,ç”¨æˆ·é¢æ¿
+var,Variable,,è‡ªé€‚åº”çš„
+,Variable Loader,,è‡ªé€‚åº”æ‰“åŒ…æœº
+,Variable Sorter,,è‡ªé€‚åº”åˆ†ç±»
+,Variable Stack Flitter,,è‡ªé€‚åº”å †åˆ†
+,Village (V),,æ‘åº„è¿ç®—
+,Wanker(aka Item Wanker),,ç‰©ç›’åˆ†ç¦»/æ½œå½±ç›’å–æ ·å™¨
+,Water stream,,æ°´é“
+,Word tear,1.12.2,å­—æ’•è£‚
+,Workstation,,ï¼ˆæ‘æ°‘ï¼‰å·¥ä½œç«™
+,World eater,,ä¸–ç•Œåå™¬è€…
+WTU,World Time Update,,ä¸–ç•Œæ—¶é—´æ›´æ–°
+,X Wide AB Tileable,,Xå®½abå †å 
+,X Wide Tileable,,Xå®½å †å 
