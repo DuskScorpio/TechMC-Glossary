@@ -12,7 +12,7 @@ View glossary file：
 
 ## 📄 File
 
-- `TechMC glossary.csv`  
+- `TechMC Glossary.csv`  
   Contains:
   - Short Form
   - Term (English)
