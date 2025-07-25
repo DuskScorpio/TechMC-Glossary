@@ -28,7 +28,7 @@
 
 ### ✏️ 如何用 Excel 编辑 CSV
 
-1. [点击此处下载 CSV 文件](https://github.com/DuskScorpio/TechMC-Glossary/raw/main/TechMC%20Glossary.csv)  
+1. [点击此处下载 CSV 文件](https://github.com/DuskScorpio/TechMC-Glossary/raw/main/TechMC%20Glossary.csv)（右键 → 另存为）  
 2. 使用 Microsoft Excel 打开  
 3. 编辑完成后，选择 **文件 > 另存为**  
 4. 文件格式请选择：**CSV UTF-8（逗号分隔） (*.csv)**  
