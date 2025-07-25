@@ -25,7 +25,7 @@ View glossary file：
 - To propose edits: Fork this repo and submit a Pull Request (PR)
 - Please keep formatting consistent and explain your changes clearly
 
-### Credits
+## Credits
 The initial version of this glossary was compiled from the following sources:
 - [GraduateTextsInTechnicalMC](https://github.com/tanhHeng/GraduateTextsInTechnicalMC)
 - [LAS Translation Team](https://www.youtube.com/@redstonevideotranslation5478)
