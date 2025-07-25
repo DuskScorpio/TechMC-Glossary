@@ -31,7 +31,7 @@
 
 Чтобы отредактировать глоссарий в Excel:
 
-1. [Скачайте CSV-файл здесь](https://github.com/DuskScorpio/TechMC-Glossary/raw/main/TechMC%20Glossary.csv)  
+1. [Нажмите здесь, чтобы скачать CSV-файл](https://github.com/DuskScorpio/TechMC-Glossary/raw/main/TechMC%20Glossary.csv) (правой кнопкой → Сохранить как)  
 2. Откройте его в Microsoft Excel  
 3. После редактирования выберите **Файл > Сохранить как**  
 4. В списке форматов выберите **CSV UTF-8 (разделитель - запятая) (*.csv)**  
