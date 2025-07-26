@@ -7,6 +7,7 @@ A multilingual glossary of Minecraft technical terms in multiple languages, desi
 
 - English
 - Chinese Simplified
+- Russian
 - Spanish
 
 View glossary file：
