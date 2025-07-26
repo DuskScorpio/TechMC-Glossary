@@ -7,6 +7,7 @@ Un glosario con múltiples idiomas de términos de Minecraft técnico, diseñado
 
 - Inglés
 - Chino Simplificado
+- Ruso
 - Español
 
 Archivo con el glosario：
