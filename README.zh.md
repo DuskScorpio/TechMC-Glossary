@@ -7,6 +7,8 @@
 
 - 英文
 - 简体中文
+- 俄语
+- 西班牙语
 
 查看术语表：
 - [🔍 TechMC Glossary.csv (预览)](https://github.com/DuskScorpio/TechMC-Glossary/blob/main/TechMC%20Glossary.csv)
