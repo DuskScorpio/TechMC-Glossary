@@ -41,7 +41,7 @@
 ## 📚 致谢
 本词汇表的初始版本参考了以下来源整理而成：
 - [GraduateTextsInTechnicalMC](https://github.com/tanhHeng/GraduateTextsInTechnicalMC)
-- [LAS Translation Team](https://www.youtube.com/@redstonevideotranslation5478)
+- [LAS TMC Translation](https://www.youtube.com/@redstonevideotranslation5478)
 
 ## 📜 授权协议
 
