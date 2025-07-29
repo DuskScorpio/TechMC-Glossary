@@ -43,7 +43,7 @@ To edit the glossary in Excel:
 ## 📚 Credits
 The initial version of this glossary was compiled from the following sources:
 - [GraduateTextsInTechnicalMC](https://github.com/tanhHeng/GraduateTextsInTechnicalMC)
-- [LAS Translation Team](https://www.youtube.com/@redstonevideotranslation5478)
+- [LAS TMC Translation](https://www.youtube.com/@redstonevideotranslation5478)
 
 ## 📜 License
 
