@@ -43,7 +43,7 @@ Para editar el glosario en Excel:
 ## Créditos
 La versión inicial de este glosario fue hecha a partir de las siguientes fuentes:
 - [GraduateTextsInTechnicalMC](https://github.com/tanhHeng/GraduateTextsInTechnicalMC)
-- [LAS Translation Team](https://www.youtube.com/@redstonevideotranslation5478)
+- [LAS TMC Translation](https://www.youtube.com/@redstonevideotranslation5478)
 
 ## 📜 Licencia
 
