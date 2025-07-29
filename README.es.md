@@ -1,4 +1,4 @@
-[ES](README.md) | [ZH](README.zh.md) | [RU](README.ru.md) | ES
+[EN](README.md) | [ZH](README.zh.md) | [RU](README.ru.md) | ES
 # TechMC Glossary
 
 Un glosario con múltiples idiomas de términos de Minecraft técnico, diseñado para ayudar a jugadores y desarrolladores a mantener una terminología consistente
