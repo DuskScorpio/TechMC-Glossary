@@ -46,7 +46,7 @@
 Начальная версия этого глоссария была составлена на основе следующих источников:  
 
 - [GraduateTextsInTechnicalMC](https://github.com/tanhHeng/GraduateTextsInTechnicalMC)  
-- [LAS Translation Team](https://www.youtube.com/@redstonevideotranslation5478)
+- [LAS TMC Translation](https://www.youtube.com/@redstonevideotranslation5478)
 
 ## 📜 Лицензия
 
