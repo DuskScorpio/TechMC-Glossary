@@ -34,9 +34,10 @@ To edit the glossary in Excel:
 
 1. [Click here to download the CSV file](https://github.com/DuskScorpio/TechMC-Glossary/raw/main/TechMC%20Glossary.csv) (right-click → Save As)  
 2. Open it in Microsoft Excel
-3. After editing, go to **File > Save As**
-4. Choose **CSV UTF-8 (Comma delimited) (*.csv)** as the file format
-5. Submit your edited file through a Pull Request (PR)
+3. Please ensure the file is sorted alphabetically by the **Full Form (English)** column before saving.
+4. After editing, go to **File > Save As**
+5. Choose **CSV UTF-8 (Comma delimited) (*.csv)** as the file format
+6. Submit your edited file through a Pull Request (PR)
 
 > ⚠️ Please make sure to save in **UTF-8 encoding** to avoid character issues.
 
