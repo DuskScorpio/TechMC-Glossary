@@ -31,10 +31,11 @@
 ### ✏️ 如何用 Excel 编辑 CSV
 
 1. [点击此处下载 CSV 文件](https://github.com/DuskScorpio/TechMC-Glossary/raw/main/TechMC%20Glossary.csv)（右键 → 另存为）  
-2. 使用 Microsoft Excel 打开  
-3. 编辑完成后，选择 **文件 > 另存为**  
-4. 文件格式请选择：**CSV UTF-8（逗号分隔） (*.csv)**  
-5. 将修改后的文件提交为 Pull Request（PR）
+2. 使用 Microsoft Excel 打开
+3. 保存前，请确保文件已按 **Full Form (English)** 列进行字母排序
+4. 编辑完成后，选择 **文件 > 另存为**  
+5. 文件格式请选择：**CSV UTF-8（逗号分隔） (*.csv)**  
+6. 将修改后的文件提交为 Pull Request（PR）
 
 > ⚠️ 请确保保存时使用 **UTF-8 编码**，以避免乱码问题。
 
