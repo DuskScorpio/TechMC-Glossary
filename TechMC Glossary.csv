@@ -95,7 +95,7 @@ CME,ConcurrentModificationException,,,,并发修改异常,Java 中的一个运�
 ,Crafter,,,,合成器/牛爷爷,,,,,,,,,,,,,,,,Crafter,
 ,Crafter (Box) Loader,Storage tech term. Refers to Box loaders with crafters in it.,,,合成打包机,,,,,,,,,,,,,,,,Box Loader de Crafter,
 ,Crafting Station,,,,合成站,,,,,,,,,,,,,,,,Estación de Crafteo,
-XBM,Cross Bone Meal,"Tree farming term. Asynchronous application of bone meal to a sapling with multiple dispensers, usually used to differentiate from synced bone meal",,,交叉催熟,树场群体的术语。指多个发射器对树苗不同步地使用骨粉，一般用于和同步催熟做出区分,,,,,,,,,,,,,,,Polvo de hueso en cruz,
+XBM,Cross Bone Meal,"Tree farming term. Asynchronous application of bone meal to a sapling with multiple dispensers, usually used to differentiate from synced bone meal",,,交叉催熟,树场群体的术语。指多个发射器对树苗不同步地使用骨粉，一般用于和同步催熟做出区分,,,,,,,,,,,,,,,Polvo de Hueso Cruzado,
 ,Crosstalk,A term used for when 2 tiled Slices are interfering with each other in any situation.,,,串线,,,,,,,,,,,,,,,,Crosstalk (Diafonía),
 cyc,Cyclical,,,,循环的,,,,,,,,,,,,,,,,Cíclico,
 Doak,Dark Oak,,,,深色橡树,,,,,,,,,,,,,,,,Roble Oscuro,
@@ -405,3 +405,4 @@ Xt,X tick,X amount of game ticks.,,,X t,,,,,,,,,,,,,,,,X tick,
 XwABt,X-Wide AB Tileable,"An extension of X-Wide tileable, but where a solution has been provided by the author on how to put 2 Slices of the same system next to each other, by moving/editing some components within the system. The capital letters ( AB, or ABC, or ABCD, ... ) annotate how the slices are tiled, and how many versions of the slice exist to achieve a result.",,,X宽AB堆叠,,,,,,,,,,,,,,,,"X de Ancho, AB Tileable",
 Xwt,X-Wide Tileable,"Annotates the width of a slice, and whether or not you can build them right next to each other. There are systems that are 1 wide, but you can't put 2 next to each other due to Crosstalk, so they don't get this annotation. Sometimes they are X-Wide AB Tileable instead.",,,X宽堆叠,,,,,,,,,,,,,,,,"X de Ancho, Tileable",
 ,,Can also be referred to as the phenomenon of collision checking along axes in entity movement based on Entity.move().,,,沿轴运动/沿轴移动,,,,,,,,,,,,,,,,,
+
