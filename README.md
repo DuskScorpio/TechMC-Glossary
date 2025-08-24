@@ -22,6 +22,8 @@ View glossary file：
   - Translations
   - Description
 
+>⚠️ When there is controversial or pending content, it will be marked with an "*" at the end.
+
 ## ✅ How to Contribute
 
 - Suggestions: Use GitHub [Issues](https://github.com/DuskScorpio/TechMC-Glossary/issues)
