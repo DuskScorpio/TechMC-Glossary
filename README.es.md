@@ -22,6 +22,7 @@ Archivo con el glosario：
   - Traducciones
   - Descripción
 
+> ⚠️ Cuando el contenido sea controvertido o esté pendiente de discusión, se marcará con un "*" al final.\*
 ## ✅ Como contribuir
 
 - Sugerencias: Usa las [Issues](https://github.com/DuskScorpio/TechMC-Glossary/issues) de GitHub
