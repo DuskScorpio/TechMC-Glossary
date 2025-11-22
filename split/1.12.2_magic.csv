@@ -1,0 +1,13 @@
+﻿Short Form,Full Form (English),Description,Arabic,Description (Arabic),Chinese,Description (Chinese),French,Description (French),German,Description (German),Italian,Description (Italian),Japanese,Description (Japanese),Korean,Description (Korean),Portugese,Description (Portugese),Russian,Description (Russian),Spanish,Description (Spanish)
+,Async Observer,1.12.2,,,异步侦测器链,,,,,,,,,,,,,,,,Observer Asíncrono,
+,Blockstate palettes,1.12.2,,,方块状态调色板,,,,,,,,,,,,,,,,Paletas de Blockstates,
+,Chunk Manipulation,,,,区块操作*,,,,,,,,,,,,,,,,Manipulación de Chunks,
+,Chunk Population,1.12.2,,,区块装饰,,,,,,,,,,,,,,,,Populación de Chunks,
+,Chunk Swap,1.12.2,,,区块替换,,,,,,,,,,,,,,,,Chunk Swap,
+,Cluster,1.12.2,,,区块集群,,,,,,,,,,,,,,,,Cluster,
+,Falling Swap,1.12.2,,,落沙替换,,,,,,,,,,,,,,,,Falling swap,
+,Instant falling,1.12.2,,,瞬时下落,1.12中存在的游戏规则，其使任何重力方块跳过坠落过程直接出现于坠落的目标位置。,,,,,,,,,,,,,,,Instant Fall (Caída instantánea de bloques),
+ITT,Instant Scheduling (aka Instant Tile Tick),1.12.2,,,瞬时计划刻,1.12中存在的游戏规则，其使得任何计划刻无视延迟立即执行。,,,,,,,,,,,,,,,Instant Scheduling (Scheduling instantáneo),
+ITT,Instant Tile Tick (aka Instant Scheduling),1.12.2,,,瞬时计划刻,1.12中存在的游戏规则，其使得任何计划刻无视延迟立即执行。,,,,,,,,,,,,,,,Instant Tile Tick (Tile ticks instantáneos),
+,Synchronized method,1.12.2,,,同步锁方法,,,,,,,,,,,,,,,,Método `synchronized`,
+,Word Tear,1.12.2,,,字撕裂,,,,,,,,,,,,,,,,Word tear,

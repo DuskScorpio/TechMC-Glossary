@@ -1,0 +1,11 @@
+﻿Short Form,Full Form (English),Description,Arabic,Description (Arabic),Chinese,Description (Chinese),French,Description (French),German,Description (German),Italian,Description (Italian),Japanese,Description (Japanese),Korean,Description (Korean),Portugese,Description (Portugese),Russian,Description (Russian),Spanish,Description (Spanish)
+,Boat Capturing,Refers the act of capturing entities with boats for further processing.,,,船吸,船吸。指使用船捕获实体以处理的行为。,,,,,,,,,,,,,,,Captura con barcas,
+,Boat Looting,Refers to a mob killing method by capturing the mobs with boats to remove from mob cap and killing afterwards.,,,船吸掠夺,指通过用船捕获生物以移除其对生物上限的占用，随后进行击杀的掠夺方法。,,,,,,,,,,,,,,,Looting con barcas,
+BM,Bone Meal,Plant fertilizer.,,,骨粉,植物催熟,,,,,,,,,,,,,,,Polvo de hueso,
+,Bortal,,,,船吸双维度,指结合船吸跨维度传输实体以进行处理的行为。,,,,,,,,,,,,,,,Bortal (Barca + Portal),
+,Corner Portal,Refers to the nether portal setup where entities passing through ends up in lazy chunk.,,,角落门*,一种让通过的实体出现在弱加载区块的特殊地狱门放置。,,,,,,,,,,,,,,,Corner Portal (técnica de looting),
+,Despawn Looting,,,,消失掠夺,,,,,,,,,,,,,,,,Despawn Looting,
+,Ghast Looting,,,,恶魂掠夺,使用恶魂火球进行掠夺操作的行为。,,,,,,,,,,,,,,,Looting con Ghasts,
+,Killing Chamber,,,,击杀室,实体在该舱室内被杀死，其掉落物被收集。,,,,,,,,,,,,,,,Killing Chamber,
+,Lazy Looting,,,,弱加载掠夺,实体在弱加载区域击杀与掠夺实体的行为。,,,,,,,,,,,,,,,Looting con Lazy chunks,
+,Pack Spawning,,,,刷怪游走,,,,,,,,,,,,,,,,Spawneo en Manada,
