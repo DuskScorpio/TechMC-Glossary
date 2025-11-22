@@ -4,7 +4,7 @@ ENCODING = "utf-8-sig"
 
 PROJECT_ROOT = Path(__file__).resolve().parent.parent
 SCRIPT_DIR = PROJECT_ROOT / "scripts"
-GLOSSARY_DIR = PROJECT_ROOT / "split"
+GLOSSARY_DIR = PROJECT_ROOT / "categories"
 LOG_DIR = PROJECT_ROOT / "logs"
 
 COMBINED_GLOSSARY_PATH = PROJECT_ROOT / "TechMC Glossary.csv"
