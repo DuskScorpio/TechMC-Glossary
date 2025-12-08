@@ -1,0 +1,9 @@
+﻿Short Form,Full Form (English),Description,Arabic,Description (Arabic),Chinese,Description (Chinese),French,Description (French),German,Description (German),Italian,Description (Italian),Japanese,Description (Japanese),Korean,Description (Korean),Portugese,Description (Portugese),Russian,Description (Russian),Spanish,Description (Spanish)
+Bin,Binary,"An encoding where each digit of a code is either on or off (we say it has a binary state, usually represented with 0s and 1s). ",,,二进制,一种编码方式，其中代码的每个位要么是开要么是关（通常表示为0或1）。,,,,,,,,,,,,,,,Binario,
+,Bit,Short for binary digit: the digits in a binary system.,,,位,二进制系统中的单个数字，简称二进制位。,,,,,,,,,,,,,,,Bit,
+,Cellular Automata,,,,元胞自动机,元胞自动机。指基于简单规则模拟复杂行为的系统。*,,,,,,,,,,,,,,,Autómata Celular,
+,Decimal,,,,十进制,一起数到十。,,,,,,,,,,,,,,,Decimal,
+fBM,Fractual Brownian Motion,,,,分形布朗运动,也称为分数布朗运动，是标准布朗运动的扩展，由Mandelbrot和Van Ness于1968年提出，是一种描述自然界中不规则形状和长程相关性的随机过程。*,,,,,,,,,,,,,,,Movimiento Browniano Fraccional,
+,Fractual Density Noise Map,,,,分形密度噪声图,,,,,,,,,,,,,,,,Mapa de Ruido de Densidad Fraccional,
+Hex,Hexadecimal,"A code where each digit of the code has 16 possible states (usually represented as 0 to 9 and then A to F). It's most commonly implemented with signal strength values, where ss 0 represents 0, ss10 represents A, ss15 represents F and so on. Multiple hex signals can be combined to form a code with multiple digits. For example, valid three digit hex codes are 032, AFF, 0F4.",,,十六进制,在数学中是一种逢16进1的进位制。一般用数字0到9和字母A到F表示，其中：A~F相当于十进制的10~15，这些称作十六进制数字。,,,,,,,,,,,,,,,Hexadecimal,
+,Octave,,,,八度,,,,,,,,,,,,,,,,Octava,
