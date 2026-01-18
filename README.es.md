@@ -35,7 +35,7 @@ Para editar el glosario en Excel:
 
 1. [Click aquí para descargar el archivo CSV](https://github.com/DuskScorpio/TechMC-Glossary/raw/main/TechMC%20Glossary.csv) (click derecho → guardar como)  
 2. Abrelo con Microsoft Excel (o alternativas OSS)
-3. Antes de guardar, asegúrate de que el archivo esté ordenado alfabéticamente por la columna **Full Form (English)**.
+3. Antes de guardar, asegúrate de que el archivo esté ordenado alfabéticamente por la columna **Category**.
 4. Tras editar, ve a **Archivo > Guardar como**
 5. Elige **CSV UTF-8 (Comma delimited) (*.csv)** como formato
 6. Submitea tu archivo editado a través de una Pull Request
