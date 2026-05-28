@@ -1,52 +1,83 @@
-[EN](README.md) | [ZH](README.zh.md) | [RU](README.ru.md) | ES
+<div align="center">
+
+<!-- README-I18N:START -->
+
+[English](./README.md) | [汉语](./README.zh.md) | [Русский](./README.ru.md) | **Español**
+
+<!-- README-I18N:END -->
+
 # TechMC Glossary
 
-Un glosario con múltiples idiomas de términos de Minecraft técnico, diseñado para ayudar a jugadores y desarrolladores a mantener una terminología consistente
+> Un glosario multilingüe de términos técnicos de Minecraft, pensado para ayudar a jugadores, desarrolladores y traductores a mantener una terminología coherente entre idiomas.
 
-🌐 Idiomas disponibles actualmente:
+[Explorar el glosario en línea](http://beta.techmc.wiki/glossary) · [Ver el CSV fuente](https://github.com/DuskScorpio/TechMC-Glossary/blob/main/TechMC%20Glossary.csv)
+
+</div>
+
+## Idiomas disponibles
 
 - Inglés
-- Chino Simplificado
+- Chino simplificado
 - Ruso
 - Español
 
-Archivo con el glosario：
-- [🔍 TechMC Glossary.csv (preview)](https://github.com/DuskScorpio/TechMC-Glossary/blob/main/TechMC%20Glossary.csv)
+## El archivo del glosario
 
-## 📄 El Archivo
+`TechMC Glossary.csv` contiene las siguientes columnas:
 
-- `TechMC Glossary.csv`  
-  Contiene:
-  - Forma Acortada
-  - Término (Inglés)
-  - Traducciones
-  - Descripción
+| Columna | Propósito |
+|---|---|
+| `Category` | Agrupación temática (se usa para ordenar) |
+| `Short Form` | Abreviatura común, si existe |
+| `Regex` | Expresión regular opcional para términos con cantidades variables |
+| `Full Form (English)` | Término canónico en inglés |
+| `Related` | Enlaces a sinónimos y términos relacionados |
+| `Description` | Definición en inglés |
+| `<Idioma>` / `Description (<Idioma>)` | Traducción y definición localizada |
 
-> ⚠️ Cuando el contenido sea controvertido o esté pendiente de discusión, se marcará con un "*" al final.\*
-## ✅ Como contribuir
+> [!NOTE]
+> Las entradas controvertidas o pendientes se marcan con un `*` al final.
 
-- Sugerencias: Usa las [Issues](https://github.com/DuskScorpio/TechMC-Glossary/issues) de GitHub
-- Para proponer edits: Clona este repositorio y submitea los edits a través de una Pull Request
-- Mantén el formato consistente y explica todos los cambios propuestos
+### Convenciones de la columna `Related`
 
-### ✏️ Editar el CSV
+La columna `Related` enlaza términos mediante prefijos tipados:
 
-Para editar el glosario en Excel:
+| Prefijo | Significado | Ejemplo |
+|---|---|---|
+| `synonym:` | Mismo concepto, nombre intercambiable | `synonym:Instant Tile Tick` |
+| `see:` | Concepto distinto pero relacionado | `see:Comparator Update Detector` |
 
-1. [Click aquí para descargar el archivo CSV](https://github.com/DuskScorpio/TechMC-Glossary/raw/main/TechMC%20Glossary.csv) (click derecho → guardar como)  
-2. Abrelo con Microsoft Excel (o alternativas OSS)
-3. Antes de guardar, asegúrate de que el archivo esté ordenado alfabéticamente por la columna **Category**.
-4. Tras editar, ve a **Archivo > Guardar como**
-5. Elige **CSV UTF-8 (Comma delimited) (*.csv)** como formato
-6. Submitea tu archivo editado a través de una Pull Request
+Las múltiples entradas se separan con `; `, por ejemplo:
 
-> ⚠️ Asegúrate de guardar el archivo con **UTF-8 encoding** para evitar problemas con carácteres.
+```
+synonym:Bounding Box; synonym:Hitbox; see:Collision Box
+```
+
+## Cómo contribuir
+
+> [!TIP]
+> Para la mayoría de las ediciones, el **[editor web en beta.techmc.wiki/glossary](http://beta.techmc.wiki/glossary)** es la opción más cómoda y la recomendada. Para cambios complejos o grandes, sigue siendo recomendable trabajar en local con `git` y el repositorio clonado.
+
+Si prefieres trabajar directamente con el archivo:
+
+- Abre un [issue](https://github.com/DuskScorpio/TechMC-Glossary/issues) para discutir un cambio o reportar un problema.
+- Haz un fork del repositorio, edita `TechMC Glossary.csv` y envía un pull request.
+- Mantén el formato consistente y explica tus razones en la descripción del PR.
+
+### Editar el CSV manualmente
+
+1. [Descarga `TechMC Glossary.csv`](https://github.com/DuskScorpio/TechMC-Glossary/raw/main/TechMC%20Glossary.csv) (clic derecho → Guardar como).
+2. Ábrelo en Microsoft Excel, LibreOffice Calc o cualquier herramienta de hoja de cálculo.
+3. Asegúrate de que las filas queden ordenadas alfabéticamente por la columna `Category`.
+4. Guarda como **CSV UTF-8 (delimitado por comas) (`*.csv`)**.
+5. Envía tus cambios mediante un pull request.
+
+> [!IMPORTANT]
+> Guarda siempre con codificación **UTF-8** para evitar problemas con caracteres no latinos.
 
 ## Créditos
+
 La versión inicial de este glosario fue hecha a partir de las siguientes fuentes:
+
 - [GraduateTextsInTechnicalMC](https://github.com/tanhHeng/GraduateTextsInTechnicalMC)
 - [LAS TMC Translation](https://www.youtube.com/@redstonevideotranslation5478)
-
-## 📜 Licencia
-
-MIT License.

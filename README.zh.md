@@ -1,33 +1,44 @@
-[EN](README.md) | ZH | [RU](README.ru.md) | [ES](README.es.md)
+<div align="center">
+
+<!-- README-I18N:START -->
+
+[English](./README.md) | **汉语** | [Русский](./README.ru.md) | [Español](./README.es.md)
+
+<!-- README-I18N:END -->
 
 # TechMC Glossary
 
-这是一个 Minecraft 技术术语的多语言对照表，旨在帮助技术玩家、开发者与翻译者在不同语言中统一术语使用。
+> Minecraft 技术术语的多语言对照表，帮助技术玩家、开发者与翻译者在不同语言中保持术语一致。
 
-🌐 目前可用语言：
+[在线浏览术语表](http://beta.techmc.wiki/glossary) · [查看源 CSV 文件](https://github.com/DuskScorpio/TechMC-Glossary/blob/main/TechMC%20Glossary.csv)
+
+</div>
+
+## 可用语言
 
 - 英文
 - 简体中文
 - 俄语
 - 西班牙语
 
-查看术语表：
+## 术语表文件
 
-- [🔍 TechMC Glossary.csv (预览)](https://github.com/DuskScorpio/TechMC-Glossary/blob/main/TechMC%20Glossary.csv)
+`TechMC Glossary.csv` 包含以下字段：
 
-## 📄 文件说明
+| 列名 | 用途 |
+|---|---|
+| `Category` | 主题分类（用于排序） |
+| `Short Form` | 常用缩写（如有） |
+| `Regex` | 用于可变数量术语的可选正则表达式 |
+| `Full Form (English)` | 标准英文术语 |
+| `Related` | 同义词和相关术语链接 |
+| `Description` | 英文释义 |
+| `<语言>` / `Description (<语言>)` | 译名与本地化释义 |
 
-- `TechMC Glossary.csv`  
-  包含以下字段：
-  - 缩写
-  - 术语（英文）
-  - 翻译
-  - 说明
-  - Related (相关术语和同义词)
-   
->⚠️ 当出现存在争议/待商议的内容时，会使用"*"在末尾标记
+> [!NOTE]
+> 存在争议或待商议的条目会在末尾标记 `*`。
 
-### 🔗 Related 列约定
+### `Related` 列规范
 
 `Related` 列使用类型前缀来链接关联术语：
 
@@ -36,33 +47,37 @@
 | `synonym:` | 同义术语，可互换 | `synonym:Instant Tile Tick` |
 | `see:` | 相关的不同术语 | `see:Comparator Update Detector` |
 
-多个条目用 `; ` 分隔。  
-示例：`synonym:Bounding Box; synonym:Hitbox; see:Collision Box`
+多个条目用 `; ` 分隔，例如：
 
-## ✅ 如何参与
+```
+synonym:Bounding Box; synonym:Hitbox; see:Collision Box
+```
 
-- 提出建议：请使用 GitHub 的 [Issues](https://github.com/DuskScorpio/TechMC-Glossary/issues)
-- 修改术语：Fork 本仓库并通过 Pull Request 提交修改
-- 修改时请保持格式统一，并说明更改理由
+## 参与贡献
 
-### ✏️ 如何用 Excel 编辑 CSV
+> [!TIP]
+> 对于大多数改动，使用 **[beta.techmc.wiki/glossary 在线编辑器](http://beta.techmc.wiki/glossary)** 是最便捷的方式，推荐使用。对于较复杂或大规模的修改，仍建议在本地使用 `git` 克隆仓库后进行编辑。
 
-1. [点击此处下载 CSV 文件](https://github.com/DuskScorpio/TechMC-Glossary/raw/main/TechMC%20Glossary.csv)（右键 → 另存为）  
-2. 使用 Microsoft Excel 打开（或开源平替）
-3. 保存前，请确保文件已按 **Category** 列进行字母排序
-4. 编辑完成后，选择 **文件 > 另存为**  
-5. 文件格式请选择：**CSV UTF-8（逗号分隔） (*.csv)**  
-6. 将修改后的文件提交为 Pull Request（PR）
+如果你想直接修改文件：
 
-> ⚠️ 请确保保存时使用 **UTF-8 编码**，以避免乱码问题。
+- 通过 [Issues](https://github.com/DuskScorpio/TechMC-Glossary/issues) 讨论改动或反馈问题。
+- Fork 本仓库，编辑 `TechMC Glossary.csv`，然后提交 Pull Request。
+- 保持格式统一，并在 PR 描述中说明改动理由。
 
-## 📚 致谢
+### 手动编辑 CSV
+
+1. [下载 `TechMC Glossary.csv`](https://github.com/DuskScorpio/TechMC-Glossary/raw/main/TechMC%20Glossary.csv)（右键 → 另存为）。
+2. 使用 Microsoft Excel、LibreOffice Calc 或其他表格工具打开。
+3. 确保行按 `Category` 列字母顺序排列。
+4. 保存为 **CSV UTF-8（逗号分隔） (`*.csv`)**。
+5. 通过 Pull Request 提交修改。
+
+> [!IMPORTANT]
+> 请始终使用 **UTF-8** 编码保存，以避免非拉丁字符出现乱码。
+
+## 致谢
 
 本词汇表的初始版本参考了以下来源整理而成：
 
 - [GraduateTextsInTechnicalMC](https://github.com/tanhHeng/GraduateTextsInTechnicalMC)
 - [LAS TMC Translation](https://www.youtube.com/@redstonevideotranslation5478)
-
-## 📜 授权协议
-
-MIT License
