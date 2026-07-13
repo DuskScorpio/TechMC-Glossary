@@ -10,7 +10,7 @@
 
 > Многоязычный глоссарий технических терминов Minecraft, помогающий игрокам, разработчикам и переводчикам сохранять единообразие терминологии в разных языках.
 
-[Открыть глоссарий онлайн](http://beta.techmc.wiki/glossary) · [Посмотреть исходный CSV](https://github.com/DuskScorpio/TechMC-Glossary/blob/main/TechMC%20Glossary.csv)
+[Открыть глоссарий онлайн](https://techmc.wiki/glossary) · [Посмотреть исходный CSV](https://github.com/DuskScorpio/TechMC-Glossary/blob/main/TechMC%20Glossary.csv)
 
 </div>
 
@@ -56,7 +56,7 @@ synonym:Bounding Box; synonym:Hitbox; see:Collision Box
 ## Как внести вклад
 
 > [!TIP]
-> Для большинства правок **[веб-редактор на beta.techmc.wiki/glossary](http://beta.techmc.wiki/glossary)** — самый удобный вариант и рекомендуется к использованию. Для сложных или крупных изменений по-прежнему рекомендуется работать локально с `git` и клонированным репозиторием.
+> Для большинства правок **[веб-редактор на techmc.wiki/glossary](https://techmc.wiki/glossary)** — самый удобный вариант и рекомендуется к использованию. Для сложных или крупных изменений по-прежнему рекомендуется работать локально с `git` и клонированным репозиторием.
 
 Если вы предпочитаете работать с файлом напрямую:
 
