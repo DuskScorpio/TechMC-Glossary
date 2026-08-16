@@ -10,7 +10,7 @@
 
 > A multilingual glossary of Minecraft technical terms, helping players, developers, and translators keep terminology consistent across languages.
 
-[Browse the glossary online](http://beta.techmc.wiki/glossary) · [View the source CSV](https://github.com/DuskScorpio/TechMC-Glossary/blob/main/TechMC%20Glossary.csv)
+[Browse the glossary online](https://techmc.wiki/glossary) · [View the source CSV](https://github.com/DuskScorpio/TechMC-Glossary/blob/main/TechMC%20Glossary.csv)
 
 </div>
 
@@ -56,7 +56,7 @@ synonym:Bounding Box; synonym:Hitbox; see:Collision Box
 ## Contributing
 
 > [!TIP]
-> For most edits, the **[web editor at beta.techmc.wiki/glossary](http://beta.techmc.wiki/glossary)** is the most convenient option and is recommended. For complex or large changes, working locally with `git` and the cloned repository is still advised.
+> For most edits, the **[web editor at techmc.wiki/glossary](https://techmc.wiki/glossary)** is the most convenient option and is recommended. For complex or large changes, working locally with `git` and the cloned repository is still advised.
 
 If you'd rather work with the file directly:
 
